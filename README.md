@@ -1,5 +1,6 @@
 ![头图](https://static.codemao.cn/pickduck/r1UDvWSwJl.jpg?hash=FuHs03mP86zQpNhQR9S5ShE1emx4)
 <div align="center">
+
 # 🌟 关于我
 
 欢迎来到我的 GitHub 主页！  
