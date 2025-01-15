@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 自我介绍
+# 🌟 关于我自己
 
 欢迎来到我的 GitHub 主页！  
 我是一个热爱 AI 与编程的普通高中生，充满激情与创造力。
@@ -52,14 +52,14 @@
 
 <div align="center">
 
-![贡献图](https://ghchart.rshah.org/CJackHwang) <!-- 替换为你的 GitHub 用户名 -->
+![贡献图](https://ghchart.rshah.org/CJackHwang) 
 
 </div>
 
 ### 其他贡献
-
-- **开源贡献**: 参与了多个开源项目，致力于社区发展，包括对 [某开源项目](https://github.com/某开源项目链接) 的贡献。
-- **博客**: 定期在 [我的博客](https://cjack.cfd) 分享学习心得与技术文章。
+![Lumite](https://static.codemao.cn/pickduck/rkY-aMGPyx.svg?hash=FoLMemr9r1D-6C7pkYLClZP6_lFZ)
+- **开源贡献**: 共享了多个开源项目，致力于社区发展，包括对自研原生博客框架 [Lumite](https://github.com/CJackHwang/Lumite) 的贡献。
+- **博客**: 定期在 [cjack.cfd](https://cjack.cfd) 分享学习心得与技术文章。
 
 感谢访问我的页面！如果你对我的项目或技术有任何问题，欢迎随时联系我。  
 如果可以，请给我的项目来个小小的 Star 鼓励一下！谢谢你的支持！✨
