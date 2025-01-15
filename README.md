@@ -1,7 +1,7 @@
 ![头图](https://static.codemao.cn/pickduck/r1UDvWSwJl.jpg?hash=FuHs03mP86zQpNhQR9S5ShE1emx4)
 <div align="center">
 
-# 🌟 关于我
+# 关于我
 
 欢迎来到我的 GitHub 主页！  
 我是一个热爱 AI 与编程的普通高中生，充满激情与创造力。
