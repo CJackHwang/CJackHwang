@@ -57,12 +57,15 @@
 
 </div>
 
-<div align="center"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=CJackHwang&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" href="https://github.com/CJackHwang" /><img style="height:137px;" src="https://github-readme-stats-colour93.vercel.app/api/top-langs/?username=CJackHwang&layout=compact&locale=cn&bg_color=45,fff2e8,fff0f6&text_color=383838&title_color=1890ff&icon_color=597Ff7" href="https://github.com//CJackHwang" /></div><div align="center">
+<div align="center"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=CJackHwang&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" href="https://github.com/CJackHwang" /><img style="height:137px;" src="https://github-readme-stats-colour93.vercel.app/api/top-langs/?username=CJackHwang&layout=compact&locale=cn&bg_color=45,fff2e8,fff0f6&text_color=383838&title_color=1890ff&icon_color=597Ff7" href="https://github.com//CJackHwang" /></div>
+
+<div align="center">
 
 ### 其他贡献
 ![Lumite](https://static.codemao.cn/pickduck/rkY-aMGPyx.svg?hash=FoLMemr9r1D-6C7pkYLClZP6_lFZ)
 - **开源贡献**: 共享了多个开源项目，致力于社区发展，包括对自研原生博客框架 [Lumite](https://github.com/CJackHwang/Lumite) 的贡献。
 - **博客**: 定期在 [cjack.cfd](https://cjack.cfd) 分享学习心得与技术文章。
+</div>
 
 感谢访问我的页面！如果你对我的项目或技术有任何问题，欢迎随时联系我。  
 如果可以，请给我的项目来个小小的 Star 鼓励一下！谢谢你的支持！✨
