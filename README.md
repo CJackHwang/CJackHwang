@@ -1,71 +1,95 @@
-![头图](https://static.codemao.cn/pickduck/r1UDvWSwJl.jpg?hash=FuHs03mP86zQpNhQR9S5ShE1emx4)
 <div align="center">
+  <img src="https://static.codemao.cn/pickduck/r1UDvWSwJl.jpg?hash=FuHs03mP86zQpNhQR9S5ShE1emx4" width="100%">
+  
+  # CJackHwang
+  
+  **编程探索者 | Kotlin & Vue 实践者**  
+  [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CJackHwang.readme)](https://github.com/CJackHwang)
+  [![GitHub Stars](https://img.shields.io/github/stars/CJackHwang?label=Stars&logo=github)](https://github.com/CJackHwang)
+</div>
 
-# CJackHwang
+一个在读普通高中学生，从小对信息技术和通用技术充满热情，尤其：
+- 安卓设备刷机与电子垃圾优化
+- 软件和Web开发（目前在学习Vue、Kotlin、HTML&JavaScript）
+- 使用最先进的AI进行实际生产应用
+同时喜欢在生活中创造小惊喜，学习中乐于挑战新技术(边做边学)
 
-欢迎来到我的 GitHub 主页！  
-我是一个热爱 AI 与编程的普通在读高中生，充满想象与创造力，十分擅长使用GPT自由构建程序，有一定的编程基础（废话）
+---
+
+## 🚀 技术栈全景
+
+<div align="center">
+  
+  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+  ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+  广而不精（心虚）
 
 </div>
 
 ---
 
-## 📬 联系方式
+## ⭐️项目亮点
 
-<div align="left">
+### 推荐项目 - Fuck-Codemao-Detection
+[![GitHub Stars](https://img.shields.io/github/stars/CJackHwang/Fuck-Codemao-Detection?style=flat-square)](https://github.com/CJackHwang/Fuck-Codemao-Detection)
+[![License](https://img.shields.io/badge/License-GPL%203.0-blue.svg?color=blue&style=flat-square)](https://github.com/CJackHwang/Fuck-Codemao-Detection)
 
-- **腾讯QQ**: [2073782156](http://wpa.qq.com/msgrd?v=3&uin=2073782156&site=qq&menu=yes)（点击跳转）  
-- **QQ邮箱**: [cjackhwang@qq.com](mailto:cjackhwang@qq.com)  
-- **Gmail邮箱**: [tetr20071102@gmail.com](mailto:tetr20071102@gmail.com)  
-- **X (Twitter)**: [@tetr5354](https://twitter.com/tetr5354) (CJACK)  
-- **GitHub**: [CJackHwang](https://github.com/CJackHwang)  
+- **拓展实践**：绕过编程平台的上传机制限制，开发出一个稳定可用的微云盘
+- **成本控制**：零服务器成本，仅用第三方稳定接口
+- **美观界面**：使用Material Design3 设计，涵盖明暗主题
+- **易于阅读**：使用GPT4o，DeepseekR1等先进大模型辅助开发，代码简洁易读
+
+---
+
+## 📈 开发轨迹
+
+<div align="center">
+
+| ![年度贡献](https://ghchart.rshah.org/2E4053/CJackHwang) | ![语言分布](https://github-readme-stats.vercel.app/api/top-langs/?username=CJackHwang&layout=compact&theme=merko&hide=Ruby) |
+|----------------------------------------------------------|----------------------------------------------------------|
+| ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CJackHwang&repo=Fuck-Codemao-Detection&theme=vue) | ![项目统计](https://github-readme-stats.vercel.app/api?username=CJackHwang&show_icons=true&theme=gruvbox) |
 
 </div>
 
 ---
 
-## 🔍 关于我
+## 💡 创意工坊
 
-我对信息技术充满热情，尤其在以下领域：
-
-- 🔧 **刷机与电子垃圾优化**
-- 💻 **软件和 Web 开发**（目前在学习 Kotlin、HTML 和 JavaScript）
-
-我喜欢在生活中创造小惊喜，并且乐于挑战新技术，探索未知的可能性。
+### ✨ 近期成果
+- 开发基于Vue3+Vite的在线跨平台云盘工具
+- 开发原生博客框架Lumite
+- 定制修补翻译笔Android5.0.2 ROM
 
 ---
 
-## 📊 GitHub 使用情况
-
-### 代码构成
-
-<div align="left">
-
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-- ![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-- ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-- ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-
-</div>
+## 📮 连接矩阵
 
 <div align="center">
 
-### 我的贡献
-
-![贡献图](https://ghchart.rshah.org/CJackHwang) 
+[![QQ](https://img.shields.io/badge/QQ-%40CJackHwang-12B7F5?style=social&logo=tencentqq)](http://wpa.qq.com/msgrd?v=3&uin=2073782156)
+[![Email](https://img.shields.io/badge/Gmail-tetr20071102-EA4335?style=social&logo=gmail)](mailto:tetr20071102@gmail.com)
+[![Twitter](https://img.shields.io/badge/X-%40tetr5354-1DA1F2?style=social&logo=x)](https://twitter.com/tetr5354)
+[![Blog](https://img.shields.io/badge/Blog-cjack.cfd-FF5722?style=social&logo=ghost)](https://cjack.cfd)
 
 </div>
 
-<div align="center"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=CJackHwang&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" href="https://github.com/CJackHwang" /><img style="height:137px;" src="https://github-readme-stats-colour93.vercel.app/api/top-langs/?username=CJackHwang&layout=compact&locale=cn&bg_color=45,fff2e8,fff0f6&text_color=383838&title_color=1890ff&icon_color=597Ff7" href="https://github.com//CJackHwang" /></div>
+---
+
+## 🎯 开源理念
+
+> "当技术遇见创造力，代码就会开出自由之花"  
+> —— 持续维护FCD-File云盘，Lumite博客框架与多个实用工具，致力于构建开发者友好型生态
+
+[![Lumite](https://static.codemao.cn/pickduck/rkY-aMGPyx.svg?hash=FoLMemr9r1D-6C7pkYLClZP6_lFZ)](https://github.com/CJackHwang/Lumite)
+
+---
 
 <div align="center">
-
-### 其他贡献
-![Lumite](https://static.codemao.cn/pickduck/rkY-aMGPyx.svg?hash=FoLMemr9r1D-6C7pkYLClZP6_lFZ)
-- **开源贡献**: 共享了多个开源项目，致力于社区发展，包括对自研原生博客框架 [Lumite](https://github.com/CJackHwang/Lumite) 的贡献。
-- **博客**: 定期在 [cjack.cfd](https://cjack.cfd) 分享学习心得与技术文章。
+  <i>感谢您的时间！如果我的项目对您有帮助，欢迎点亮⭐让更多人看到</i><br>
+  <sub>「真正的极客精神，在于不断突破技术边界」</sub>
 </div>
-
-感谢访问我的页面！如果你对我的项目或技术有任何问题，欢迎随时联系我。  
-如果可以，请给我的项目来个小小的 Star 鼓励一下！谢谢你的支持！✨
