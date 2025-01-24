@@ -3,7 +3,7 @@
   
   # CJackHwang
   
-  **编程探索者 | Kotlin & Vue 实践者**  
+  **编程初始探索者 | Kotlin & Vue 实践者 | AI狂热忠实者**  
   [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CJackHwang.readme)](https://github.com/CJackHwang)
   [![GitHub Stars](https://img.shields.io/github/stars/CJackHwang?label=Stars&logo=github)](https://github.com/CJackHwang)
 </div>
@@ -27,20 +27,20 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-  广而不精（心虚）
+  现在一直还是广而不精，还要继续学习
 
 </div>
 
 ---
 
-## ⭐️项目亮点
+## ⭐️ 亮点项目
 
 ### 推荐项目 - Fuck-Codemao-Detection
 [![GitHub Stars](https://img.shields.io/github/stars/CJackHwang/Fuck-Codemao-Detection?style=flat-square)](https://github.com/CJackHwang/Fuck-Codemao-Detection)
 [![License](https://img.shields.io/badge/License-GPL%203.0-blue.svg?color=blue&style=flat-square)](https://github.com/CJackHwang/Fuck-Codemao-Detection)
 
-- **拓展实践**：绕过编程平台的上传机制限制，开发出一个稳定可用的微云盘
-- **成本控制**：零服务器成本，仅用第三方稳定接口
+- **拓展实践**：绕过编程平台上传限制，开发出稳定可用的微云盘
+- **成本控制**：零服务器成本，可自行一键部署
 - **美观界面**：使用Material Design3 设计，涵盖明暗主题
 - **易于阅读**：使用GPT4o，DeepseekR1等先进大模型辅助开发，代码简洁易读
 
@@ -82,7 +82,7 @@
 
 ## 🎯 开源理念
 
-> "当技术遇见创造力，代码就会开出自由之花"  
+> "当人工智能遇见创造力，代码就会开出思想的自由之花"
 > —— 持续维护FCD-File云盘，Lumite博客框架与多个实用工具，致力于构建开发者友好型生态
 
 [![Lumite](https://static.codemao.cn/pickduck/rkY-aMGPyx.svg?hash=FoLMemr9r1D-6C7pkYLClZP6_lFZ)](https://github.com/CJackHwang/Lumite)
