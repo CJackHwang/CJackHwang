@@ -6,6 +6,8 @@
   **编程初始探索者 | Kotlin & Vue 实践者 | AI狂热忠实者**  
   [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CJackHwang.readme)](https://github.com/CJackHwang)
   [![GitHub Stars](https://img.shields.io/github/stars/CJackHwang?label=Stars&logo=github)](https://github.com/CJackHwang)
+
+✧٩(ˊωˋ*)و✧
 </div>
 
 一个在读普通高中学生，从小对信息技术和通用技术充满热情，尤其：
