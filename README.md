@@ -52,7 +52,7 @@
 
 | ![年度贡献](https://ghchart.rshah.org/2E4053/CJackHwang) | ![语言分布](https://github-readme-stats.vercel.app/api/top-langs/?username=CJackHwang&layout=compact&theme=merko&hide=Ruby) |
 |----------------------------------------------------------|----------------------------------------------------------|
-| ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CJackHwang&repo=Fuck-Codemao-Detection&theme=vue) | ![项目统计](https://github-readme-stats.vercel.app/api?username=CJackHwang&show_icons=true&theme=gruvbox) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CJackHwang&repo=Fuck-Codemao-Detection&theme=vue)](https://github.com/CJackHwang/Fuck-Codemao-Detection) | ![项目统计](https://github-readme-stats.vercel.app/api?username=CJackHwang&show_icons=true&theme=gruvbox) |
 
 </div>
 
