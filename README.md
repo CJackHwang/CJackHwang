@@ -87,8 +87,6 @@
 > "当人工智能遇见创造力，代码就会开出思想的自由之花"
 > —— 持续维护FCD-File云盘，Lumite博客框架与多个实用工具，致力于构建开发者友好型生态
 
-[![Lumite](https://static.codemao.cn/pickduck/rkY-aMGPyx.svg?hash=FoLMemr9r1D-6C7pkYLClZP6_lFZ)](https://github.com/CJackHwang/Lumite)
-
 ---
 
 <div align="center">
