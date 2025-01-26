@@ -38,8 +38,8 @@
 ## ⭐️ 亮点项目
 
 ### 推荐项目 - Fuck-Codemao-Detection
-[![GitHub Stars](https://img.shields.io/github/stars/CJackHwang/Fuck-Codemao-Detection?style=flat-square)](https://github.com/CJackHwang/Fuck-Codemao-Detection)
-[![License](https://img.shields.io/badge/License-GPL%203.0-blue.svg?color=blue&style=flat-square)](https://github.com/CJackHwang/Fuck-Codemao-Detection)
+[![GitHub Stars](https://img.shields.io/github/stars/CJackHwang/Fuck-Codemao-Detection?style=flat-square)](https://github.com/CJackHwang/FlowChunkFlex)
+[![License](https://img.shields.io/badge/License-GPL%203.0-blue.svg?color=blue&style=flat-square)](https://github.com/CJackHwang/FlowChunkFlex)
 
 - **拓展实践**：绕过编程平台上传限制，开发出稳定可用的微云盘
 - **成本控制**：零服务器成本，可自行一键部署
@@ -54,7 +54,7 @@
 
 | ![年度贡献](https://ghchart.rshah.org/2E4053/CJackHwang) | ![语言分布](https://github-readme-stats.vercel.app/api/top-langs/?username=CJackHwang&layout=compact&theme=vue&hide=Ruby) |
 |----------------------------------------------------------|----------------------------------------------------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CJackHwang&repo=Fuck-Codemao-Detection&theme=vue)](https://github.com/CJackHwang/Fuck-Codemao-Detection) | ![项目统计](https://github-readme-stats.vercel.app/api?username=CJackHwang&show_icons=true&theme=vue) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CJackHwang&repo=FlowChunkFlex&theme=vue)](https://github.com/CJackHwang/FlowChunkFlex) | ![项目统计](https://github-readme-stats.vercel.app/api?username=CJackHwang&show_icons=true&theme=vue) |
 
 </div>
 
@@ -85,7 +85,7 @@
 ## 🎯 开源理念
 
 > "当人工智能遇见创造力，代码就会开出思想的自由之花"
-> —— 持续维护FCD-File云盘，Lumite博客框架与多个实用工具，致力于构建开发者友好型生态
+> —— 持续维护FlowChunkFlex云盘，Lumite博客框架与多个实用工具，致力于构建开发者友好型生态
 
 ---
 
