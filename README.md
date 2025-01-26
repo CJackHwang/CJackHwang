@@ -37,8 +37,8 @@
 
 ## ⭐️ 亮点项目
 
-### 推荐项目 - Fuck-Codemao-Detection
-[![GitHub Stars](https://img.shields.io/github/stars/CJackHwang/Fuck-Codemao-Detection?style=flat-square)](https://github.com/CJackHwang/FlowChunkFlex)
+### 推荐项目 - FlowChunkFlex
+[![GitHub Stars](https://img.shields.io/github/stars/CJackHwang/FlowChunkFlex?style=flat-square)](https://github.com/CJackHwang/FlowChunkFlex)
 [![License](https://img.shields.io/badge/License-GPL%203.0-blue.svg?color=blue&style=flat-square)](https://github.com/CJackHwang/FlowChunkFlex)
 
 - **拓展实践**：绕过编程平台上传限制，开发出稳定可用的微云盘
@@ -63,7 +63,7 @@
 ## 💡 我的成就
 
 ### 近期成果
-- 开发基于Vue3+Vite的在线跨平台云盘工具
+- 开发基于Vue3+Vite的在线跨平台云盘工具FlowChunkFlex
 - 开发原生博客框架Lumite
 - 定制修补翻译笔Android5.0.2 ROM
 
