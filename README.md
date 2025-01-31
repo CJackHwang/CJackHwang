@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://static.codemao.cn/pickduck/r1UDvWSwJl.jpg?hash=FuHs03mP86zQpNhQR9S5ShE1emx4" width="100%">
+  <img src="https://static.codemao.cn/pickduck/BkicUj5uJl.jpg?hash=FsEc7FzFEJfalgavgB6650Y7X6Ir" width="100%">
   
   # CJackHwang
   
