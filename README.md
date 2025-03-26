@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://static.codemao.cn/pickduck/BkicUj5uJl.jpg?hash=FsEc7FzFEJfalgavgB6650Y7X6Ir" width="100%">
+  <img src="https://static.codemao.cn/flowchunkflex/HJq2Y2-pyx.gif?hash=FgRA03LpT_pXBhG_0H9ZVOZd2Is_" width="100%">
   
   # CJackHwang
   
@@ -44,7 +44,7 @@
 - **拓展实践**：绕过编程平台上传限制，开发出稳定可用的微云盘
 - **成本控制**：零服务器成本，可自行一键部署
 - **美观界面**：使用Material Design3 设计，涵盖明暗主题
-- **易于阅读**：使用GPT4o，DeepseekR1等先进大模型辅助开发，代码简洁易读
+- **易于阅读**：使用GPT4o，DeepseekR1，Gemini2.5大模型辅助开发，代码简洁易读
 
 ---
 
