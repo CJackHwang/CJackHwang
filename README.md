@@ -3,7 +3,7 @@
   
   # CJackHwang
   
-  **编程探索者 | Kotlin & Vue 实践者 | AI狂热忠实者**  
+  **编程探索者 | 奇妙点子实践者 | AI狂热忠实者**  
   [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CJackHwang.readme)](https://github.com/CJackHwang)
   [![GitHub Stars](https://img.shields.io/github/stars/CJackHwang?label=Stars&logo=github)](https://github.com/CJackHwang)
 
@@ -29,7 +29,7 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-  现在一直还是广而不精，还要继续学习
+  广而不精，还要继续学习
 
 </div>
 
@@ -63,6 +63,8 @@
 ## 💡 我的成就
 
 ### 近期成果
+
+- 开发AIstudioProxyAPI项目一天内破280star
 - 开发基于Vue3+Vite的在线跨平台云盘工具FlowChunkFlex
 - 开发原生博客框架Lumite
 - 定制修补翻译笔Android5.0.2 ROM
@@ -90,5 +92,5 @@
 
 <div align="center">
   <i>感谢您的时间！如果我的项目对您有帮助，欢迎点亮⭐让更多人看到</i><br>
-  <sub>「AI改变世界」</sub>
+  <sub>「end」</sub>
 </div>
