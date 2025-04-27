@@ -3,7 +3,7 @@
   
   # CJackHwang
   
-  **编程初始探索者 | Kotlin & Vue 实践者 | AI狂热忠实者**  
+  **编程探索者 | Kotlin & Vue 实践者 | AI狂热忠实者**  
   [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CJackHwang.readme)](https://github.com/CJackHwang)
   [![GitHub Stars](https://img.shields.io/github/stars/CJackHwang?label=Stars&logo=github)](https://github.com/CJackHwang)
 
@@ -85,11 +85,10 @@
 ## 🎯 开源理念
 
 > "当人工智能遇见创造力，代码就会开出思想的自由之花"
-> —— 持续维护FlowChunkFlex云盘，Lumite博客框架与多个实用工具，致力于构建开发者友好型生态
 
 ---
 
 <div align="center">
   <i>感谢您的时间！如果我的项目对您有帮助，欢迎点亮⭐让更多人看到</i><br>
-  <sub>「真正的极客精神，在于不断突破技术边界」</sub>
+  <sub>「AI改变世界」</sub>
 </div>
