@@ -4,17 +4,22 @@
 
   <img src="https://static.codemao.cn/flowchunkflex/HJq2Y2-pyx.gif?hash=FgRA03LpT_pXBhG_0H9ZVOZd2Is_" width="100%" alt="[编程猫 GIF]">
 
-  **编程探索者 | 奇妙点子实践者 | AI狂热忠实者** [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CJackHwang.readme)](https://github.com/CJackHwang)
+  **AI爱好者 | 奇妙点子实践者 | 羊毛党** [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CJackHwang.readme)](https://github.com/CJackHwang)
   [![GitHub Stars](https://img.shields.io/github/stars/CJackHwang?label=Stars&logo=github&style=social)](https://github.com/CJackHwang?tab=repositories)
 
 ✧٩(ˊωˋ*)و✧
 </div>
 
-一个在读普通高中学生，对信息技术充满热情，尤其：
-- 安卓设备刷机与电子垃圾优化 📱
-- 软件和Web开发（目前在学习Vue、Kotlin、HTML&JavaScript）💻
-- 使用最先进的AI模型进行生产 🤖
-同时喜欢在生活中创造小惊喜，学习中乐于挑战新技术 (边做边玩边学) ✨
+一个在读普高学生，对信息技术充满热情，主要涉及：
+
+* 安卓设备刷机与电子垃圾整活 📱
+* 软件和Web开发（目前在学习Vue、Kotlin、HTML&JavaScript）💻
+* 使用AI进行生产开发 🤖
+
+### 其他
+
+讨厌信息茧房
+对待新事物喜欢边做边学，会Logo、UI和以及产品设计，还会剪辑PS，宣传制作等基本操作，会萨克斯，竖笛等乐器并尝试过电子音乐创作...兴趣爱好广泛，涉猎多。
 
 ---
 
@@ -42,7 +47,7 @@
 [![License](https://img.shields.io/github/license/CJackHwang/AIstudioProxyAPI?style=flat-square&color=blue)](https://github.com/CJackHwang/AIstudioProxyAPI/blob/main/LICENSE)
 
 - **社区热议**：项目发布**一天内收获 280+ Star**，广受关注！🚀
-- **创新实践**：通过 Node.js + Playwright 模拟 OpenAI API 访问 Google AI Studio，解锁无限可能。
+- **创新实践**：通过 Python + FastAPI + Playwright  + Camoufox 模拟 OpenAI API 访问 Google AI Studio，解锁对话功能与API的互转
 - **兼容并包**：无缝对接 Open WebUI, NextChat 等兼容 OpenAI API 的客户端。
 - **自动便捷**：包含自动化脚本，简化浏览器连接与服务器启动流程。
 
