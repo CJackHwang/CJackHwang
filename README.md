@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://static.codemao.cn/flowchunkflex/HJq2Y2-pyx.gif?hash=FgRA03LpT_pXBhG_0H9ZVOZd2Is_" width="100%" alt="[编程猫 GIF]">
 
-  # CJackHwang
+# CJackHwang
+
+  <img src="https://static.codemao.cn/flowchunkflex/HJq2Y2-pyx.gif?hash=FgRA03LpT_pXBhG_0H9ZVOZd2Is_" width="100%" alt="[编程猫 GIF]">
 
   **编程探索者 | 奇妙点子实践者 | AI狂热忠实者** [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CJackHwang.readme)](https://github.com/CJackHwang)
   [![GitHub Stars](https://img.shields.io/github/stars/CJackHwang?label=Stars&logo=github&style=social)](https://github.com/CJackHwang?tab=repositories)
