@@ -83,7 +83,7 @@
 
 <div align="center">
 
-[![QQ](https://img.shields.io/badge/QQ-@CJackHwang-12B7F5?style=social&logo=tencentqq)](http://wpa.qq.com/msgrd?v=3&uin=2073782156)
+[![QQ](https://img.shields.io/badge/QQ-2073782156-12B7F5?style=social&logo=tencentqq)](http://wpa.qq.com/msgrd?v=3&uin=2073782156)
 [![Email](https://img.shields.io/badge/Gmail-tetr20071102-EA4335?style=social&logo=gmail)](mailto:tetr20071102@gmail.com)
 [![Twitter / X](https://img.shields.io/badge/X-@tetr5354-000000?style=social&logo=x)](https://twitter.com/tetr5354)
 [![Blog](https://img.shields.io/badge/Blog-cjack.cfd-FF5722?style=social&logo=ghost)](https://cjack.cfd)
