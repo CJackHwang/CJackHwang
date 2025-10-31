@@ -6,7 +6,7 @@
 
 <img src="https://static.codemao.cn/flowchunkflex/HJq2Y2-pyx.gif?hash=FgRA03LpT_pXBhG_0H9ZVOZd2Is_" width="100%" alt="[Header GIF]">
 
-**AI应用研究员 | 安卓技术爱好者 | 终身学习者**
+**AI应用研究员 | 终身学习者**
 
 <p>
   <a href="https://github.com/CJackHwang"><img src="https://visitor-badge.laobi.icu/badge?page_id=CJackHwang.readme" alt="Visitors"></a>
@@ -19,11 +19,11 @@
 
 ### 👋 关于我 (About Me)
 
-我是一名对信息技术充满热情的青年开发者，专注于**人工智能的实际应用落地**与**安卓系统的深度定制**。
+我是一名对信息技术充满热情的青年开发者，专注于**人工智能的实际应用落地**
 
-我相信“做是最好的学”，并致力于打破信息壁垒。我的长期目标是在大学期间创立一家技术公司，探索并实践由AI驱动的高度自动化商业模式。
+我相信“动手做是最好的学习方式”，并致力于打破信息壁垒。我的长期目标是在大学期间创立一家个人技术公司（超级个体/小团队），探索并实践由AI驱动的高度自动化商业模式。
 
-除了编码，我的技能树还延伸至UI/UX设计、视频剪辑和音乐创作等领域，这些跨学科的经验为我的技术项目注入了独特的视角和创造力。
+除了编程，我的技能树还延伸至UI/UX设计、视频剪辑和音乐创作等领域。
 
 ---
 
@@ -77,7 +77,7 @@
 
 ---
 
-### 📮 如何找到我 (Get in Touch)
+### 📮 如何联系我 (Get in Touch)
 
 <div align="center">
 
@@ -91,5 +91,5 @@
 ---
 
 <div align="center">
-  <i>感谢你的来访。如果我的项目对你有帮助，请不吝点亮 ⭐。</i>
+  <i>感谢你的访问。如果我的项目对你有帮助，请不吝点点⭐。</i>
 </div>
