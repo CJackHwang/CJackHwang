@@ -9,8 +9,8 @@
 **AI应用研究员 | 终身学习者**
 
 <p>
-  <a href="https://github.com/CJackHwang"><img src="https://visitor-badge.laobi.icu/badge?page_id=CJackHwang.readme" alt="Visitors"></a>
-  <a href="https://github.com/CJackHwang?tab=repositories"><img src="https://img.shields.io/github/stars/CJackHwang?label=Stars&logo=github&style=social" alt="GitHub Stars"></a>
+  <a href="https://bgithub.xyz/CJackHwang"><img src="https://visitor-badge.laobi.icu/badge?page_id=CJackHwang.readme" alt="Visitors"></a>
+  <a href="https://bgithub.xyz/CJackHwang?tab=repositories"><img src="https://img.shields.io/github/stars/CJackHwang?label=Stars&logo=github&style=social" alt="GitHub Stars"></a>
 </p>
 
 </div>
@@ -47,10 +47,10 @@
 **[AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI)**
 
 <br>
-<a href="https://github.com/CJackHwang/AIstudioProxyAPI">
+<a href="https://bgithub.xyz/CJackHwang/AIstudioProxyAPI">
   <img src="https://img.shields.io/github/stars/CJackHwang/AIstudioProxyAPI?style=flat-square&label=Stars" alt="Stars">
 </a>
-<a href="https://github.com/CJackHwang/AIstudioProxyAPI/blob/main/LICENSE">
+<a href="https://bgithub.xyz/CJackHwang/AIstudioProxyAPI/blob/main/LICENSE">
   <img src="https://img.shields.io/github/license/CJackHwang/AIstudioProxyAPI?style=flat-square&color=blue" alt="License">
 </a>
 
@@ -82,7 +82,7 @@
 <div align="center">
 
 <a href="http://wpa.qq.com/msgrd?v=3&uin=2073782156"><img src="https://img.shields.io/badge/QQ-2073782156-12B7F5?style=for-the-badge&logo=tencentqq" alt="QQ"></a>
-<a href="mailto:tetr20071102@gmail.com"><img src="https://img.shields.io/badge/Gmail-tetr20071102-EA4335?style=for-the-badge&logo=gmail" alt="Email"></a>
+<a href="mailto:cjackhwang@gmail.com"><img src="https://img.shields.io/badge/Gmail-cjackhwang-EA4335?style=for-the-badge&logo=gmail" alt="Email"></a>
 <a href="https://twitter.com/tetr5354"><img src="https://img.shields.io/badge/X-@tetr5354-000000?style=for-the-badge&logo=x" alt="Twitter / X"></a>
 <a href="https://cjack.top"><img src="https://img.shields.io/badge/Blog-cjack.top-FF5722?style=for-the-badge&logo=ghost" alt="Blog"></a>
 
