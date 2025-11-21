@@ -4,7 +4,7 @@
 
 # CJackHwang
 
-**AI应用研究员 | 终身学习者**
+**AI应用爱好者 | 独立开发者**
 
 <p>
   <a href="https://bgithub.xyz/CJackHwang"><img src="https://visitor-badge.laobi.icu/badge?page_id=CJackHwang.readme" alt="Visitors"></a>
