@@ -4,8 +4,6 @@
 
 # CJackHwang
 
-<img src="https://static.codemao.cn/flowchunkflex/HJq2Y2-pyx.gif?hash=FgRA03LpT_pXBhG_0H9ZVOZd2Is_" width="100%" alt="[Header GIF]">
-
 **AI应用研究员 | 终身学习者**
 
 <p>
