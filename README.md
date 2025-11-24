@@ -80,7 +80,7 @@
 <div align="center">
 
 <a href="http://wpa.qq.com/msgrd?v=3&uin=2073782156"><img src="https://img.shields.io/badge/QQ-2073782156-12B7F5?style=for-the-badge&logo=tencentqq" alt="QQ"></a>
-<a href="mailto:cjackhwang@gmail.com"><img src="https://img.shields.io/badge/Gmail-cjackhwang-EA4335?style=for-the-badge&logo=gmail" alt="Email"></a>
+<a href="mailto:cjackhwang@outlook.com"><img src="https://img.shields.io/badge/Outlook-cjackhwang-EA4335?style=for-the-badge&logo=outlook" alt="Email"></a>
 <a href="https://twitter.com/tetr5354"><img src="https://img.shields.io/badge/X-@tetr5354-000000?style=for-the-badge&logo=x" alt="Twitter / X"></a>
 <a href="https://cjack.top"><img src="https://img.shields.io/badge/Blog-cjack.top-FF5722?style=for-the-badge&logo=ghost" alt="Blog"></a>
 
