@@ -4,7 +4,7 @@
 
 # CJackHwang
 
-**AI应用爱好者 | 独立开发者**
+**AI爱好者 | 独立开发者**
 
 <p>
   <a href="https://bgithub.xyz/CJackHwang"><img src="https://visitor-badge.laobi.icu/badge?page_id=CJackHwang.readme" alt="Visitors"></a>
@@ -17,9 +17,9 @@
 
 ### 👋 关于我 (About Me)
 
-我是一名对信息技术充满热情的青年开发者，专注于**人工智能的实际应用落地**
+一名对信息技术充满热情的青年开发者，专注于**人工智能的实际应用落地**
 
-我相信“动手做是最好的学习方式”，并致力于打破信息壁垒。我的长期目标是在大学期间创立一家个人技术公司（超级个体/小团队），探索并实践由AI驱动的高度自动化商业模式。
+相信“动手实践是最好的学习方式”，致力于打破信息壁垒。长期目标是在大学期间创立一家个人技术公司（超级个体/小团队），探索并实践由AI驱动的高度自动化商业模式。
 
 除了编程，我的技能树还延伸至UI/UX设计、视频剪辑和音乐创作等领域。
 
@@ -61,7 +61,7 @@
 <div align="center">
 
 
-![GitHub Card](https://githubcard.com/CJackHwang.svg?d=3q5x7egq)
+![GitHub Card](https://githubcard.com/CJackHwang.svg?d=jH0qDxkO)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CJackHwang&theme=vue)
 ![Annual Contribution Chart](https://ghchart.rshah.org/2E4053/CJackHwang)
 
