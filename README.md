@@ -60,8 +60,8 @@
 
 <div align="center">
 
-![CJackHwang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CJackHwang&show_icons=true&theme=vue&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CJackHwang&layout=compact&theme=vue&hide=Ruby&langs_count=8)
+
+![GitHub Card](https://githubcard.com/CJackHwang.svg?d=3q5x7egq)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CJackHwang&theme=vue)
 ![Annual Contribution Chart](https://ghchart.rshah.org/2E4053/CJackHwang)
 
