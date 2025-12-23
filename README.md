@@ -60,9 +60,8 @@
 
 <div align="center">
 
-
+![GitHub Streak](https://githubcard.com/CJackHwang.svg?d=ZmIxnvAt)
 ![GitHub Card](https://githubcard.com/CJackHwang.svg?d=jH0qDxkO)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CJackHwang&theme=vue)
 ![Annual Contribution Chart](https://ghchart.rshah.org/2E4053/CJackHwang)
 
 </div>
