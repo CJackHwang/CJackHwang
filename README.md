@@ -29,11 +29,6 @@
       <br><br>
       🎯 <b>目标：</b> 致力于打破信息壁垒，探索 AI 驱动的高度自动化商业模式。
     </td>
-    <td width="30%">
-      <div align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="coding gif"/>
-      </div>
-    </td>
   </tr>
 </table>
 
