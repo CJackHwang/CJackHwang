@@ -95,14 +95,9 @@
 ### 📊 开发数据 (Stats & Activity)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CJackHwang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CJackHwang&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="streak graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/40c463/CJackHwang" alt="CJackHwang's Github chart" />
+![GitHub Streak](https://githubcard.com/CJackHwang.svg?d=0eN8hwVh)
+![GitHub Card](https://githubcard.com/CJackHwang.svg?d=jH0qDxkO)
+![Annual Contribution Chart](https://ghchart.rshah.org/2E4053/CJackHwang)
 </div>
 
 ---
