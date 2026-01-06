@@ -95,10 +95,8 @@
 ### 📊 开发数据 (Stats & Activity)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CJackHwang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="languages graph" />
-  
-  <!-- 综合数据 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=CJackHwang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CJackHwang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CJackHwang&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="streak graph" />
 </div>
 
 <br>
