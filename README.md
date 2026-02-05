@@ -23,7 +23,7 @@
       <br>
       👋 <b>Hi, I'm CJack.</b>
       <br><br>
-      一名 <b>Gen-Z全栈开发者</b> 与 <b>产品经理 (PM)</b>，专注于构建 <b>AI Agent</b> 与现代 Web 应用。
+      一名 <b>Gen-Z全栈开发者</b> 与 <b>对产品有一定理解</b>，专注于构建 <b>AI Agent</b> 与现代 Web 应用。
       <br><br>
       🚀 <b>核心能力：</b> 擅长使用 <b>React + Tailwind CSS</b> 构建精美的前端，配合 <b>Python/Node.js</b> 打造强大的 AI 后端服务。
       <br><br>
