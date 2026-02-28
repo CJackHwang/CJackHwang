@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://githubcard.com/CJackHwang.svg?d=JvMFrQUt)
+![GitHub](https://githubcard.com/CJackHwang.svg?d=JvMFrQUt)
 
 
 </div>
@@ -61,7 +61,7 @@
 
 ### 🤖 [AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI)
 
-> 🌟 **2k+ Stars** | AI Studio 网页对话转 API 工具
+> 🌟 **2.1k+ Stars** | AI Studio 网页对话转 API 工具
 
 一个高效的代理工具，打破网页对话限制，支持流式传输。
 
