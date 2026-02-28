@@ -6,10 +6,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Expert+in+React,+Python+%26+AI+Agents;PM+%2B+Developer+%2B+Student;I+ship+clean+code+while+you+sleep+(UTC%2B8);Building+AI-Driven+Applications" alt="Typing SVG" />
 </a>
 
-<p>
-  <a href="https://github.com/CJackHwang"><img src="https://visitor-badge.laobi.icu/badge?page_id=CJackHwang.readme&left_color=gray&right_color=blue" alt="Visitors"></a>
-  <a href="https://github.com/CJackHwang?tab=repositories"><img src="https://img.shields.io/github/stars/CJackHwang?label=Stars&logo=github&style=social" alt="GitHub Stars"></a>
-</p>
+<div align="center">
+
+![GitHub Streak](https://githubcard.com/CJackHwang.svg?d=JvMFrQUt)
+
+
+</div>
+
 
 </div>
 
@@ -82,20 +85,6 @@
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-### 📊 开发数据 (Stats & Activity)
-
-<div align="center">
-
-![GitHub Streak](https://githubcard.com/CJackHwang.svg?d=0eN8hwVh)
-
-![GitHub Card](https://githubcard.com/CJackHwang.svg?d=jH0qDxkO)
-
-![Annual Contribution Chart](https://ghchart.rshah.org/2E4053/CJackHwang)
 
 </div>
 
