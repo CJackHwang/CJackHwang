@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![GitHub](https://githubcard.com/CJackHwang.svg?d=CBmCtWRX)
+![GitHub](https://githubcard.com/CJackHwang.svg?d=8dfCl09c)
 
 
 </div>
