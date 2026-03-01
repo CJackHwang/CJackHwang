@@ -17,7 +17,11 @@
 
 ---
 
-### 👨‍💻 关于我 (About Me)
+<div align="center">
+
+### 关于我 (About Me)
+
+<div align="center">
 
 <table>
   <tr>
@@ -36,7 +40,11 @@
 
 ---
 
-### 🛠️ 技术栈 (Tech Stack)
+<div align="center">
+
+### 技术栈 (Tech Stack)
+
+<div align="center">
 
 <div align="center">
 
@@ -50,7 +58,11 @@
 
 ---
 
-### ⭐ 精选项目 (Featured Project)
+<div align="center">
+
+### 精选项目 (Featured Project)
+
+<div align="center">
 
 <div align="center">
 
@@ -89,7 +101,11 @@
 
 ---
 
-### 📮 联系我 (Get in Touch)
+<div align="center">
+
+### 联系我 (Get in Touch)
+
+<div align="center">
 
 <div align="center">
 
