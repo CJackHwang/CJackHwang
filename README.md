@@ -23,13 +23,13 @@
   <tr>
     <td valign="center">
       <br>
-      👋 <b>Hi, I'm CJack.</b>
+      <b>Hi, I'm CJack.</b>
       <br><br>
       一名 <b>Gen-Z全栈开发者</b> 对 <b>产品设计</b> 有一定理解，专注于构建 <b>AI Agent</b> 与现代 Web 应用。
       <br><br>
-      🚀 <b>核心能力：</b> 擅长使用 <b>React + Tailwind CSS</b> 构建精美的前端，配合 <b>Python/Node.js</b> 打造强大的 AI 后端服务。
+      <b>核心能力：</b> 擅长使用 <b>React + Tailwind CSS</b> 构建精美的前端，配合 <b>Python/Node.js/Go</b> 打造强大的 AI 后端服务。
       <br><br>
-      🎯 <b>目标：</b> 致力于打破信息壁垒，探索 AI 驱动的高度自动化商业模式。
+      <b>目标：</b> 致力于打破信息壁垒，探索 AI 驱动的高度自动化商业模式。
     </td>
   </tr>
 </table>
