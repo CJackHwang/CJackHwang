@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=CJackHwang&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Gen-Z%20Full-Stack%20Developer%20&%20AI%20Expert&descAlignY=60&descAlign=50"/>
 
 <a href="https://github.com/CJackHwang">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Expert+in+React,+Python+%26+AI+Agents;PM+%2B+Developer+%2B+Student;I+ship+clean+code+while+you+sleep+(UTC%2B8);Building+AI-Driven+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Expert+in+React,AI+Agents;PM+%2B+Developer+%2B+Student;Building+AI-Driven+Applications" alt="Typing SVG" />
 </a>
 
 <div align="center">
