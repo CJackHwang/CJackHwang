@@ -1,124 +1,181 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=CJackHwang&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Gen-Z%20Full-Stack%20Developer%20&%20AI%20Expert&descAlignY=60&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=CJackHwang&fontSize=64&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder&descAlignY=62&descAlign=50" />
+
+<br />
 
 <a href="https://github.com/CJackHwang">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Expert+in+React,AI+Agents;PM+%2B+Developer+%2B+Student;Building+AI-Driven+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+useful+AI+applications;Product-minded+Full-Stack+Developer;React+%2B+Tailwind+%2B+Python+%2F+Go+%2F+Node.js" alt="Typing SVG" />
 </a>
 
-<div align="center">
+<br /><br />
 
-![GitHubCard](https://githubcard.com/CJackHwang.svg?d=NMm0C9ED)
+<img src="https://githubcard.com/CJackHwang.svg?d=NMm0C9ED" alt="GitHub Card" />
 
-</div>
+<br />
 
-
-</div>
-
----
-
-<div align="center">
-
-### 关于我 (About Me)
-
-<div align="center">
-
-<table>
-  <tr>
-    <td valign="center">
-      <br>
-      <b>Hi, I'm CJack.</b>
-      <br><br>
-      一名 <b>Gen-Z全栈开发者</b> 对 <b>产品设计</b> 有一定理解，努力尝试构建有价值的 <b>AI AGENT 项目</b>。
-      <br><br>
-      <b>核心能力：</b> 擅长使用 <b>React + Tailwind CSS</b> 构建精美的前端，配合 <b>Python/Node.js/Go</b> 打造强大的 AI 后端服务。
-      <br><br>
-      <b>目标：</b> 致力于打破信息壁垒，探索 AI 驱动的高度自动化商业模式。
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-
-### 技术栈 (Tech Stack)
-
-<div align="center">
-
-<div align="center">
-
-| **Frontend & Design** | **Backend & AI** | **Languages** |
-|:---:|:---:|:---:|
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
-| ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
-
-</div>
-
----
-
-<div align="center">
-
-### 精选项目 (Featured Project)
-
-<div align="center">
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 [AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI)
-
-> 🌟 **2.1k+ Stars** | AI Studio 网页对话转 API 工具
-
-一个高效的代理工具，打破网页对话限制，支持流式传输。
-
-<br>
-
-<a href="https://github.com/CJackHwang/AIstudioProxyAPI">
-  <img src="https://img.shields.io/github/stars/CJackHwang/AIstudioProxyAPI?style=flat-square&label=Stars&color=DEA584" alt="Stars">
-</a>
-<a href="https://github.com/CJackHwang/AIstudioProxyAPI/network/members">
-  <img src="https://img.shields.io/github/forks/CJackHwang/AIstudioProxyAPI?style=flat-square&label=Forks&color=lightblue" alt="Forks">
-</a>
-<a href="https://github.com/CJackHwang/AIstudioProxyAPI/blob/main/LICENSE">
-  <img src="https://img.shields.io/github/license/CJackHwang/AIstudioProxyAPI?style=flat-square&color=blue" alt="License">
-</a>
-
-</td>
-<td width="50%" align="center">
-  <a href="https://github.com/CJackHwang/AIstudioProxyAPI">
-    <img src="https://opengraph.githubassets.com/1/CJackHwang/AIstudioProxyAPI" width="100%" style="border-radius: 10px;" alt="Project Preview" />
+<p>
+  <a href="https://github.com/CJackHwang">
+    <img src="https://img.shields.io/badge/GitHub-CJackHwang-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</td>
-</tr>
-</table>
+  <a href="https://cjack.top">
+    <img src="https://img.shields.io/badge/Blog-cjack.top-111111?style=flat-square&logo=ghost&logoColor=white" alt="Blog" />
+  </a>
+  <a href="mailto:cjackhwang@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact-111111?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/tetr5354">
+    <img src="https://img.shields.io/badge/X-@tetr5354-111111?style=flat-square&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>
 
 </div>
 
 ---
 
+## 关于我 | About Me
+
+你好，我是 **CJack**。  
+一名偏产品思维的 **全栈开发者**，主要关注 **AI 应用、Agent 系统、API 中间层** 和 **开发者工具**。
+
+我擅长使用 **React + Tailwind CSS** 构建前端体验，也会结合 **Python / Node.js / Go** 实现可落地的后端与 AI 服务。
+
+**English**  
+Hi, I'm **CJack** — a product-minded full-stack developer focused on AI applications, agent systems, API infrastructure, and developer tools.
+
+---
+
+## 关注方向 | Focus
+
+- AI Agents
+- OpenAI-compatible API services
+- Developer tools
+- Automation workflows
+- Product-oriented full-stack applications
+
+---
+
+## 技术栈 | Tech Stack
+
 <div align="center">
 
-### 联系我 (Get in Touch)
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+<img src="https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/Go-20232A?style=for-the-badge&logo=go&logoColor=00ADD8" />
+<img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
-<div align="center">
+</div>
+
+---
+
+## 精选项目 | Selected Projects
+
+### AIstudioProxyAPI
+
+将 Google AI Studio 网页能力转换为 OpenAI 兼容 API 的代理服务，支持流式响应、参数转发与调试场景。  
+OpenAI-compatible proxy service for Google AI Studio web interactions.
+
+<p>
+  <a href="https://github.com/CJackHwang/AIstudioProxyAPI">
+    <img src="https://opengraph.githubassets.com/1/CJackHwang/AIstudioProxyAPI" alt="AIstudioProxyAPI" width="100%" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/github/stars/CJackHwang/AIstudioProxyAPI?style=flat-square&label=Stars" />
+  <img src="https://img.shields.io/github/forks/CJackHwang/AIstudioProxyAPI?style=flat-square&label=Forks" />
+  <img src="https://img.shields.io/github/issues/CJackHwang/AIstudioProxyAPI?style=flat-square&label=Issues" />
+  <img src="https://img.shields.io/github/last-commit/CJackHwang/AIstudioProxyAPI?style=flat-square&label=Updated" />
+  <img src="https://img.shields.io/github/license/CJackHwang/AIstudioProxyAPI?style=flat-square&label=License" />
+</p>
+
+---
+
+### ds2api
+
+将 DeepSeek Web 对话能力桥接为兼容多种工具链的 API 服务，适合自动化与高性能接入。  
+A high-performance bridge that converts DeepSeek web conversations into API services.
+
+<p>
+  <a href="https://github.com/CJackHwang/ds2api">
+    <img src="https://opengraph.githubassets.com/1/CJackHwang/ds2api" alt="ds2api" width="100%" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/github/stars/CJackHwang/ds2api?style=flat-square&label=Stars" />
+  <img src="https://img.shields.io/github/forks/CJackHwang/ds2api?style=flat-square&label=Forks" />
+  <img src="https://img.shields.io/github/issues/CJackHwang/ds2api?style=flat-square&label=Issues" />
+  <img src="https://img.shields.io/github/last-commit/CJackHwang/ds2api?style=flat-square&label=Updated" />
+  <img src="https://img.shields.io/github/license/CJackHwang/ds2api?style=flat-square&label=License" />
+</p>
+
+---
+
+### wx-filehelper-api
+
+基于微信文件传输助手网页版的轻量级机器人开发框架，适合 AI 交互和二次开发。  
+A lightweight bot framework built on WeChat File Transfer Assistant Web.
+
+<p>
+  <a href="https://github.com/CJackHwang/wx-filehelper-api">
+    <img src="https://opengraph.githubassets.com/1/CJackHwang/wx-filehelper-api" alt="wx-filehelper-api" width="100%" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/github/stars/CJackHwang/wx-filehelper-api?style=flat-square&label=Stars" />
+  <img src="https://img.shields.io/github/forks/CJackHwang/wx-filehelper-api?style=flat-square&label=Forks" />
+  <img src="https://img.shields.io/github/issues/CJackHwang/wx-filehelper-api?style=flat-square&label=Issues" />
+  <img src="https://img.shields.io/github/last-commit/CJackHwang/wx-filehelper-api?style=flat-square&label=Updated" />
+  <img src="https://img.shields.io/github/license/CJackHwang/wx-filehelper-api?style=flat-square&label=License" />
+</p>
+
+---
+
+### RadioNowhere
+
+一个多 Agent 驱动的实时广播实验项目，探索 AI 内容生成与协同编排。  
+An experimental multi-agent radio project for real-time AI-generated broadcasting.
+
+<p>
+  <a href="https://github.com/CJackHwang/RadioNowhere">
+    <img src="https://opengraph.githubassets.com/1/CJackHwang/RadioNowhere" alt="RadioNowhere" width="100%" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/github/stars/CJackHwang/RadioNowhere?style=flat-square&label=Stars" />
+  <img src="https://img.shields.io/github/forks/CJackHwang/RadioNowhere?style=flat-square&label=Forks" />
+  <img src="https://img.shields.io/github/issues/CJackHwang/RadioNowhere?style=flat-square&label=Issues" />
+  <img src="https://img.shields.io/github/last-commit/CJackHwang/RadioNowhere?style=flat-square&label=Updated" />
+  <img src="https://img.shields.io/github/license/CJackHwang/RadioNowhere?style=flat-square&label=License" />
+</p>
+
+---
+
+## 联系方式 | Contact
 
 <div align="center">
 
 | Platform | Link |
-| :---: | :---: |
-| **QQ** | <a href="http://wpa.qq.com/msgrd?v=3&uin=2073782156"><img src="https://img.shields.io/badge/2073782156-12B7F5?style=flat-square&logo=tencentqq&logoColor=white" alt="QQ"></a> |
-| **Email** | <a href="mailto:cjackhwang@outlook.com"><img src="https://img.shields.io/badge/cjackhwang-EA4335?style=flat-square&logo=outlook&logoColor=white" alt="Email"></a> |
-| **X / Twitter** | <a href="https://twitter.com/tetr5354"><img src="https://img.shields.io/badge/@tetr5354-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter"></a> |
-| **Blog** | <a href="https://cjack.top"><img src="https://img.shields.io/badge/CJack.top-FF5722?style=flat-square&logo=ghost&logoColor=white" alt="Blog"></a> |
+| :--- | :--- |
+| GitHub | [github.com/CJackHwang](https://github.com/CJackHwang) |
+| Blog | [cjack.top](https://cjack.top) |
+| Email | [cjackhwang@outlook.com](mailto:cjackhwang@outlook.com) |
+| X / Twitter | [@tetr5354](https://twitter.com/tetr5354) |
+| QQ | [2073782156](http://wpa.qq.com/msgrd?v=3&uin=2073782156) |
 
 </div>
 
-<br>
+---
+
 <div align="center">
-  <i>Let's build something amazing together.</i>
+
+<img src="https://komarev.com/ghpvc/?username=CJackHwang&style=flat-square&color=blue" alt="Profile Views" />
+
 </div>
