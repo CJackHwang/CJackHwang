@@ -13,22 +13,6 @@
 <img src="https://githubcard.com/CJackHwang.svg?d=NMm0C9ED" alt="GitHub Card" />
 
 <br />
-
-<p>
-  <a href="https://github.com/CJackHwang">
-    <img src="https://img.shields.io/badge/GitHub-CJackHwang-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://cjack.top">
-    <img src="https://img.shields.io/badge/Blog-cjack.top-111111?style=flat-square&logo=ghost&logoColor=white" alt="Blog" />
-  </a>
-  <a href="mailto:cjackhwang@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact-111111?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/tetr5354">
-    <img src="https://img.shields.io/badge/X-@tetr5354-111111?style=flat-square&logo=x&logoColor=white" alt="X" />
-  </a>
-</p>
-
 </div>
 
 ---
