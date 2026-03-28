@@ -1,18 +1,9 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=CJackHwang&fontSize=64&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder&descAlignY=62&descAlign=50" />
-
-<br />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=CJackHwang&fontSize=64&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder&descAlignY=62&descAlign=50"/>
 <a href="https://github.com/CJackHwang">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+useful+AI+applications;Product-minded+Full-Stack+Developer;React+%2B+Tailwind+%2B+Python+%2F+Go+%2F+Node.js" alt="Typing SVG" />
 </a>
-
-<br /><br />
-
 <img src="https://githubcard.com/CJackHwang.svg?d=NMm0C9ED" alt="GitHub Card" />
-
-<br />
 </div>
 
 ---
@@ -20,11 +11,11 @@
 ## 关于我 | About Me
 
 你好，我是 **CJack**。  
-一名偏产品思维的 **全栈开发者**，主要关注 **AI 应用、Agent 系统、API 中间层** 和 **开发者工具**。
+一名偏产品思维的 **全栈AI开发者**，主要关注 **AI 应用、Agent 系统、API 中间层** 和 **开发者工具**。
 
 我擅长使用 **React + Tailwind CSS** 构建前端体验，也会结合 **Python / Node.js / Go** 实现可落地的后端与 AI 服务。
 
-Hi, I'm **CJack** — a product-minded full-stack developer focused on AI applications, agent systems, API infrastructure, and developer tools.
+Hi, I'm **CJack** — a product-minded full-stack AIdeveloper focused on AI applications, agent systems, API infrastructure, and developer tools.
 
 ---
 
