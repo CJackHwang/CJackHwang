@@ -40,7 +40,6 @@
 
 我擅长使用 **React + Tailwind CSS** 构建前端体验，也会结合 **Python / Node.js / Go** 实现可落地的后端与 AI 服务。
 
-**English**  
 Hi, I'm **CJack** — a product-minded full-stack developer focused on AI applications, agent systems, API infrastructure, and developer tools.
 
 ---
@@ -112,48 +111,6 @@ A high-performance bridge that converts DeepSeek web conversations into API serv
   <img src="https://img.shields.io/github/issues/CJackHwang/ds2api?style=flat-square&label=Issues" />
   <img src="https://img.shields.io/github/last-commit/CJackHwang/ds2api?style=flat-square&label=Updated" />
   <img src="https://img.shields.io/github/license/CJackHwang/ds2api?style=flat-square&label=License" />
-</p>
-
----
-
-### wx-filehelper-api
-
-基于微信文件传输助手网页版的轻量级机器人开发框架，适合 AI 交互和二次开发。  
-A lightweight bot framework built on WeChat File Transfer Assistant Web.
-
-<p>
-  <a href="https://github.com/CJackHwang/wx-filehelper-api">
-    <img src="https://opengraph.githubassets.com/1/CJackHwang/wx-filehelper-api" alt="wx-filehelper-api" width="100%" />
-  </a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/github/stars/CJackHwang/wx-filehelper-api?style=flat-square&label=Stars" />
-  <img src="https://img.shields.io/github/forks/CJackHwang/wx-filehelper-api?style=flat-square&label=Forks" />
-  <img src="https://img.shields.io/github/issues/CJackHwang/wx-filehelper-api?style=flat-square&label=Issues" />
-  <img src="https://img.shields.io/github/last-commit/CJackHwang/wx-filehelper-api?style=flat-square&label=Updated" />
-  <img src="https://img.shields.io/github/license/CJackHwang/wx-filehelper-api?style=flat-square&label=License" />
-</p>
-
----
-
-### RadioNowhere
-
-一个多 Agent 驱动的实时广播实验项目，探索 AI 内容生成与协同编排。  
-An experimental multi-agent radio project for real-time AI-generated broadcasting.
-
-<p>
-  <a href="https://github.com/CJackHwang/RadioNowhere">
-    <img src="https://opengraph.githubassets.com/1/CJackHwang/RadioNowhere" alt="RadioNowhere" width="100%" />
-  </a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/github/stars/CJackHwang/RadioNowhere?style=flat-square&label=Stars" />
-  <img src="https://img.shields.io/github/forks/CJackHwang/RadioNowhere?style=flat-square&label=Forks" />
-  <img src="https://img.shields.io/github/issues/CJackHwang/RadioNowhere?style=flat-square&label=Issues" />
-  <img src="https://img.shields.io/github/last-commit/CJackHwang/RadioNowhere?style=flat-square&label=Updated" />
-  <img src="https://img.shields.io/github/license/CJackHwang/RadioNowhere?style=flat-square&label=License" />
 </p>
 
 ---
