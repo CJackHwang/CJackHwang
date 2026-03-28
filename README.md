@@ -2,17 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=CJackHwang&fontSize=64&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder&descAlignY=62&descAlign=50" />
 
-<br />
-
 <a href="https://github.com/CJackHwang">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+useful+AI+applications;Product-minded+Full-Stack+Developer;React+%2B+Tailwind+%2B+Python+%2F+Go+%2F+Node.js" alt="Typing SVG" />
 </a>
 
-<br /><br />
-
 <img src="https://githubcard.com/CJackHwang.svg?d=NMm0C9ED" alt="GitHub Card" />
 
-<br />
 </div>
 
 ---
