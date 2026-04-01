@@ -98,7 +98,7 @@ A high-performance bridge that converts DeepSeek web conversations into API serv
 | :--- | :--- |
 | GitHub | [github.com/CJackHwang](https://github.com/CJackHwang) |
 | Blog | [cjack.top](https://cjack.top) |
-| Email | [cjackhwang@outlook.com](mailto:cjackhwang@outlook.com) |
+| Email | [cjackhwang@qq.com](mailto:cjackhwang@qq.com) |
 | X / Twitter | [@tetr5354](https://twitter.com/tetr5354) |
 | QQ | [2073782156](http://wpa.qq.com/msgrd?v=3&uin=2073782156) |
 
