@@ -15,7 +15,7 @@
 
 我擅长使用 **React + Tailwind CSS** 构建前端体验，也会结合 **Python / Node.js / Go** 实现可落地的后端与 AI 服务。
 
-Hi, I'm **CJack** — a product-minded full-stack AIdeveloper focused on AI applications, agent systems, API infrastructure, and developer tools.
+Hi, I'm **CJack** — a product-minded full-stack AI developer focused on AI applications, agent systems, API infrastructure, and developer tools.
 
 ---
 
