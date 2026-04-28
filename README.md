@@ -84,20 +84,18 @@ OpenAI-compatible proxy service for Google AI Studio web interactions.
 </p>
 
 ---
-
-联系方式 | Contact
-
+## 联系方式 | Contact
 <div align="center">
 
-Platform Link
-GitHub github.com/CJackHwang
-Blog cjack.top
-Email cjackhwang@qq.com
-X / Twitter @tetr5354
-QQ 2073782156
+| Platform | Link |
+| :--- | :--- |
+| GitHub | [github.com/CJackHwang](https://github.com/CJackHwang) |
+| Blog | [cjack.top](https://cjack.top) |
+| Email | [cjackhwang@qq.com](mailto:cjackhwang@qq.com) |
+| X / Twitter | [@tetr5354](https://twitter.com/tetr5354) |
+| QQ | [2073782156](http://wpa.qq.com/msgrd?v=3&uin=2073782156) |
 
 </div>
-
 ---
 
 <div align="center">
