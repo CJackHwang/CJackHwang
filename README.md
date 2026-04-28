@@ -11,6 +11,7 @@
 你好，我是 **CJack**。  
 一名偏产品思维的 **全栈AI开发者**，主要关注 **AI 应用、Agent 系统、API 中间层** 和 **开发者工具**。
 我擅长使用 **React + Tailwind CSS** 构建前端体验，也会结合 **Python / Node.js / Go** 实现可落地的后端与 AI 服务。
+
 Hi, I'm **CJack** — a product-minded full-stack AI developer focused on AI applications, agent systems, API infrastructure, and developer tools.
 
 ---
@@ -39,6 +40,7 @@ Hi, I'm **CJack** — a product-minded full-stack AI developer focused on AI app
 
 ### ds2api
 将 DeepSeek Web 对话能力桥接为兼容多种工具链的 API 服务，适合自动化与高性能接入。  
+
 A high-performance bridge that converts DeepSeek web conversations into API services.
 <p>
   <a href="https://github.com/CJackHwang/ds2api">
@@ -56,7 +58,8 @@ A high-performance bridge that converts DeepSeek web conversations into API serv
 
 ---
 ### AIstudioProxyAPI
-将 Google AI Studio 网页能力转换为 OpenAI 兼容 API 的代理服务，支持流式响应、参数转发与调试场景。  
+将 Google AI Studio 网页能力转换为 OpenAI 兼容 API 的代理服务，支持流式响应、参数转发与调试场景。 
+ 
 OpenAI-compatible proxy service for Google AI Studio web interactions.
 <p>
   <a href="https://github.com/CJackHwang/AIstudioProxyAPI">
