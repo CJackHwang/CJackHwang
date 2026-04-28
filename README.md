@@ -7,28 +7,22 @@
 </div>
 
 ---
-
 ## 关于我 | About Me
-
-你好，我是 CJack。
-一名偏产品思维的 全栈AI开发者，主要关注 AI 应用、Agent 系统、API 中间层 和 开发者工具。
-我擅长使用 React + Tailwind CSS 构建前端体验，也会结合 Python / Node.js / Go 实现可落地的后端与 AI 服务。
-Hi, I'm CJack — a product-minded full-stack AI developer focused on AI applications, agent systems, API infrastructure, and developer tools.
+你好，我是 **CJack**。  
+一名偏产品思维的 **全栈AI开发者**，主要关注 **AI 应用、Agent 系统、API 中间层** 和 **开发者工具**。
+我擅长使用 **React + Tailwind CSS** 构建前端体验，也会结合 **Python / Node.js / Go** 实现可落地的后端与 AI 服务。
+Hi, I'm **CJack** — a product-minded full-stack AI developer focused on AI applications, agent systems, API infrastructure, and developer tools.
 
 ---
-
 ## 关注方向 | Focus
-
-· AI Agents
-· OpenAI-compatible API services
-· Developer tools
-· Automation workflows
-· Product-oriented full-stack applications
+- AI Agents
+- OpenAI-compatible API services
+- Developer tools
+- Automation workflows
+- Product-oriented full-stack applications
 
 ---
-
 ## 技术栈 | Tech Stack
-
 <div align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
@@ -41,14 +35,11 @@ Hi, I'm CJack — a product-minded full-stack AI developer focused on AI applica
 </div>
 
 ---
-
 ## 精选项目 | Selected Projects
 
-ds2api
-
-将 DeepSeek Web 对话能力桥接为兼容多种工具链的 API 服务，适合自动化与高性能接入。
+### ds2api
+将 DeepSeek Web 对话能力桥接为兼容多种工具链的 API 服务，适合自动化与高性能接入。  
 A high-performance bridge that converts DeepSeek web conversations into API services.
-
 <p>
   <a href="https://github.com/CJackHwang/ds2api">
     <img src="https://opengraph.githubassets.com/1/CJackHwang/ds2api" alt="ds2api" width="100%" />
@@ -64,12 +55,9 @@ A high-performance bridge that converts DeepSeek web conversations into API serv
 <a href="https://trendshift.io/repositories/24508" target="_blank"><img src="https://trendshift.io/api/badge/repositories/24508" alt="CJackHwang%2Fds2api | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 ---
-
-## AIstudioProxyAPI
-
-将 Google AI Studio 网页能力转换为 OpenAI 兼容 API 的代理服务，支持流式响应、参数转发与调试场景。
+### AIstudioProxyAPI
+将 Google AI Studio 网页能力转换为 OpenAI 兼容 API 的代理服务，支持流式响应、参数转发与调试场景。  
 OpenAI-compatible proxy service for Google AI Studio web interactions.
-
 <p>
   <a href="https://github.com/CJackHwang/AIstudioProxyAPI">
     <img src="https://opengraph.githubassets.com/1/CJackHwang/AIstudioProxyAPI" alt="AIstudioProxyAPI" width="100%" />
@@ -84,7 +72,6 @@ OpenAI-compatible proxy service for Google AI Studio web interactions.
 </p>
 
 ---
-
 ## 联系方式 | Contact
 <div align="center">
 
@@ -99,7 +86,6 @@ OpenAI-compatible proxy service for Google AI Studio web interactions.
 </div>
 
 ---
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=CJackHwang&style=flat-square&color=blue" alt="Profile Views" />
 </div>
